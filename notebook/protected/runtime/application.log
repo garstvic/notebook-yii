@@ -1,0 +1,50 @@
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "log" application component
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "request" application component
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "urlManager" application component
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "user" application component
+in /home/ubuntu/environment/notebook/notebook/protected/controllers/SiteController.php (108)
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "session" application component
+in /home/ubuntu/environment/notebook/notebook/protected/controllers/SiteController.php (108)
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "log" application component
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "request" application component
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "urlManager" application component
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.web.filters.CFilterChain] Running filter NoteController.filteraccessControl()
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "user" application component
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "session" application component
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "log" application component
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "request" application component
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "urlManager" application component
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "themeManager" application component
+in /home/ubuntu/environment/notebook/notebook/protected/controllers/SiteController.php (100)
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "widgetFactory" application component
+in /home/ubuntu/environment/notebook/notebook/www/themes/notebook/views/site/login.php (10)
+in /home/ubuntu/environment/notebook/notebook/protected/controllers/SiteController.php (100)
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "coreMessages" application component
+in /home/ubuntu/environment/notebook/notebook/www/themes/notebook/views/site/login.php (28)
+in /home/ubuntu/environment/notebook/notebook/protected/controllers/SiteController.php (100)
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "clientScript" application component
+in /home/ubuntu/environment/notebook/notebook/www/themes/notebook/views/site/login.php (40)
+in /home/ubuntu/environment/notebook/notebook/protected/controllers/SiteController.php (100)
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
+2020/06/11 14:02:01 [trace] [system.CModule] Loading "assetManager" application component
+in /home/ubuntu/environment/notebook/notebook/protected/controllers/SiteController.php (100)
+in /home/ubuntu/environment/notebook/notebook/www/index.php (13)
